@@ -47,36 +47,41 @@ function AboutMe()
                 </div>
                 <div className="profile_counts">
                     <div className="profile_counts_wrap">
-                        <div className="item">
-                            <div className="icon">
-                                <i className="fas fa-eye">
-                                </i>
+                        <a href="/projects">
+                            <div className="item">
+                                <div className="icon">
+                                    <i className="fas fa-eye"></i>
+                                </div>
+                                <div className="abtitle">
+                                    View Projects
+                                </div>
                             </div>
-                            <div className="abtitle">
-                                View Projects
+                        </a>
+                    </div>
+                    <div className="profile_counts_wrap">
+                        <a href="/resume">
+                            <div className="item">
+                                <div className="icon">
+                                    <i className="fas fa-eye">
+                                    </i>
+                                </div>
+                                <div className="abtitle">
+                                    View Resume
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div className="profile_counts_wrap">
                         <div className="item">
-                            <div className="icon">
-                                <i className="fas fa-eye">
-                                </i>
-                            </div>
-                            <div className="abtitle">
-                                View Resume
-                            </div>
-                        </div>
-                    </div>
-                    <div className="profile_counts_wrap">
-                        <div className="item">
-                            <div className="icon">
-                                <i className="fas fa-comment">
-                                </i>
-                            </div>
-                            <div className="abtitle">
-                                Contact
-                            </div>
+                            <a href="/contact">
+                                <div className="icon">
+                                    <i className="fas fa-comment">
+                                    </i>
+                                </div>
+                                <div className="abtitle">
+                                    Contact
+                                </div>
+                            </a>
                         </div>
                     </div>
                 </div>

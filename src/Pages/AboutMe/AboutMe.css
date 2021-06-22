@@ -198,3 +198,6 @@ body{
       color: black;
   }
   
+  .item{
+    text-decoration: none;
+  }

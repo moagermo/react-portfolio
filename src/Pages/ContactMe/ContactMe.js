@@ -1,7 +1,9 @@
+import './Contact.css';
+
 const ContactMe = () =>
 {
     return(
-        <div>
+        <div className="contact">
             <h1>contact.</h1>
             <h4>check out all the things....</h4>
             <ul>

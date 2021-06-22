@@ -3,10 +3,10 @@ import {MenuItems} from './MenuItems'
 import { Button } from '../Button'
 import './Navbar.css'
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
-import AboutMe from './Pages/AboutMe/AboutMe'
-import ContactMe from './Pages/ContactMe/ContactMe';
-import Projects from './Pages/Projects/Projects'
-import Resume from './Pages/Resume/Resume'
+import AboutMe from '../../Pages/AboutMe/AboutMe'
+import ContactMe from '../../Pages/ContactMe/ContactMe';
+import Projects from '../../Pages/Projects/Projects'
+import Resume from '../../Pages/Resume/Resume'
 
 
 
