@@ -56,13 +56,13 @@ class Navbar extends Component
                     <Route path="/react-portfolio" exact>
                         <AboutMe />
                     </Route>
-                    <Route path="/contact"exact>
+                    <Route path="/react-portfolio/contact"exact>
                         <ContactMe />
                     </Route>
-                    <Route path="/projects"exact>
+                    <Route path="/react-portfolio/projects"exact>
                         <Projects />
                     </Route>
-                    <Route path="/resume" exact>
+                    <Route path="/react-portfolio/resume" exact>
                         <Resume />
                     </Route>
                 </Switch>

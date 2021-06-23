@@ -12,18 +12,18 @@ export const MenuItems =
         title: 'Resume',
         url: '#',
         cName: 'nav-links',
-        name: 'resume'
+        name: '/react-portfolio/resume'
     },
     {
         title: 'Projects',
         url: '#',
         cName: 'nav-links',
-        name: 'projects'
+        name: '/react-portfolio/projects'
     },
     {
         title: 'Contact',
         url: '#',
         cName: 'nav-links-mobile',
-        name: 'contact'
+        name: '/react-portfolio/contact'
     }
 ]
