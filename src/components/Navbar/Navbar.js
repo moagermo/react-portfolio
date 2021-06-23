@@ -47,7 +47,7 @@ class Navbar extends Component
                             )
                         })} 
                     </ul>
-                    <Button><Link to="/contact" className="btn--medium">contact</Link></Button>
+                    <Button><Link to="/react-portfolio/contact" className="btn--medium">contact</Link></Button>
                 </nav> 
 
                 
