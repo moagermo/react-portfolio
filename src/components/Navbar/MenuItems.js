@@ -6,7 +6,7 @@ export const MenuItems =
         title: 'About',
         url: '#',
         cName: 'nav-links',
-        name: '/'
+        name: '/react-portfolio'
     },
     {
         title: 'Resume',
