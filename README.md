@@ -2,7 +2,7 @@
 
 ## Deployed Application
 
-[Deployment](https://moagermo.github.io/Mo-Ager-Visual-Resume/)
+[Deployment](https://moagermo.github.io/react-portfolio/)
 
 ## Description 
 
