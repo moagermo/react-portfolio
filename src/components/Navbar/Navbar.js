@@ -53,7 +53,7 @@ class Navbar extends Component
                 
                 <Switch>
                     
-                    <Route path="/" exact>
+                    <Route path="/react-portfolio" exact>
                         <AboutMe />
                     </Route>
                     <Route path="/contact"exact>
