@@ -40,7 +40,7 @@ class Navbar extends Component
                         {MenuItems.map((item, index)=> {
                             return(
                                 <li key={index}>
-                                    <Link to={item.title} className={item.cName} href={item.url}>
+                                    <Link to={item.name} className={item.cName} href={item.url}>
                                         {item.title}
                                     </Link>
                                 </li>
@@ -54,9 +54,6 @@ class Navbar extends Component
                 <Switch>
                     
                     <Route path="/" exact>
-                        <AboutMe />
-                    </Route>
-                    <Route path="/about" exact>
                         <AboutMe />
                     </Route>
                     <Route path="/contact"exact>
