@@ -19,3 +19,8 @@ Home Page brings you to an info page about myself and you have two ways of getti
 ## Repository
 
 [Code](https://github.com/moagermo/react-portfolio)
+
+## Contact
+[GitHub](https://github.com/moagermo)
+[Phone](tel:6149699988)
+[Email](mailto:moager@att.net)
